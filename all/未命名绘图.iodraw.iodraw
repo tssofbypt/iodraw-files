@@ -23,6 +23,9 @@
         <mxCell id="uRoryyrqE-esxJqLZ5dk-7" value="嵌入模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uRoryyrqE-esxJqLZ5dk-0">
           <mxGeometry x="150" y="160" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uRoryyrqE-esxJqLZ5dk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="uRoryyrqE-esxJqLZ5dk-0" source="uRoryyrqE-esxJqLZ5dk-8" target="uRoryyrqE-esxJqLZ5dk-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uRoryyrqE-esxJqLZ5dk-8" value="语义向量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uRoryyrqE-esxJqLZ5dk-0">
           <mxGeometry x="150" y="30" width="60" height="60" as="geometry" />
         </mxCell>
