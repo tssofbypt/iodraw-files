@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uRoryyrqE-esxJqLZ5dk-1" value="数据检索" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="460" width="200" height="200" as="geometry">
+          <mxGeometry x="320" y="450" width="200" height="200" as="geometry">
             <mxRectangle x="310" y="240" width="40" height="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
