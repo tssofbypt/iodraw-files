@@ -15,7 +15,7 @@
         <mxCell id="uRoryyrqE-esxJqLZ5dk-7" value="嵌入模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uRoryyrqE-esxJqLZ5dk-0">
           <mxGeometry x="110" y="130" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uRoryyrqE-esxJqLZ5dk-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uRoryyrqE-esxJqLZ5dk-0">
+        <mxCell id="uRoryyrqE-esxJqLZ5dk-8" value="语义向量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uRoryyrqE-esxJqLZ5dk-0">
           <mxGeometry x="110" y="30" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRoryyrqE-esxJqLZ5dk-1" value="数据检索" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
