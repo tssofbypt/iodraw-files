@@ -29,10 +29,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uRoryyrqE-esxJqLZ5dk-10" value="向量数据库" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-10" y="440" width="200" height="170" as="geometry" />
+          <mxGeometry x="-10" y="440" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="uRoryyrqE-esxJqLZ5dk-11" value="存储" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uRoryyrqE-esxJqLZ5dk-10">
-          <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="30" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
