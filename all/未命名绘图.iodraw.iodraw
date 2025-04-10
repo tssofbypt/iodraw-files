@@ -5,13 +5,8 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="uRoryyrqE-esxJqLZ5dk-0" value="数据准备" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="240" width="200" height="200" as="geometry">
+          <mxGeometry x="320" y="240" width="400" height="200" as="geometry">
             <mxRectangle x="310" y="240" width="40" height="140" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uRoryyrqE-esxJqLZ5dk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uRoryyrqE-esxJqLZ5dk-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uRoryyrqE-esxJqLZ5dk-1" value="数据检索" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
