@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uRoryyrqE-esxJqLZ5dk-6" value="私域数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uRoryyrqE-esxJqLZ5dk-0">
-          <mxGeometry x="34" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="34" y="70" width="56" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRoryyrqE-esxJqLZ5dk-1" value="数据检索" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="450" width="400" height="200" as="geometry">
@@ -21,6 +21,9 @@
           <mxGeometry x="320" y="660" width="400" height="200" as="geometry">
             <mxRectangle x="310" y="240" width="40" height="140" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uRoryyrqE-esxJqLZ5dk-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
