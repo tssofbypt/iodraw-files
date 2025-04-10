@@ -62,15 +62,15 @@
           <mxGeometry x="320" y="50" width="56" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRoryyrqE-esxJqLZ5dk-2" value="LLM生成" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="620" width="400" height="200" as="geometry">
+          <mxGeometry x="320" y="620" width="400" height="180" as="geometry">
             <mxRectangle x="310" y="240" width="40" height="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uRoryyrqE-esxJqLZ5dk-37" value="提示词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uRoryyrqE-esxJqLZ5dk-2">
-          <mxGeometry x="310" y="70" width="70" height="60" as="geometry" />
+          <mxGeometry x="310" y="50" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRoryyrqE-esxJqLZ5dk-38" value="大语言模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uRoryyrqE-esxJqLZ5dk-2">
-          <mxGeometry x="120" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRoryyrqE-esxJqLZ5dk-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uRoryyrqE-esxJqLZ5dk-24" target="uRoryyrqE-esxJqLZ5dk-7">
           <mxGeometry relative="1" as="geometry" />
