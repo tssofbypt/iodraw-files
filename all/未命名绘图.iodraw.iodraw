@@ -9,6 +9,9 @@
             <mxRectangle x="310" y="240" width="40" height="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uRoryyrqE-esxJqLZ5dk-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uRoryyrqE-esxJqLZ5dk-0" source="uRoryyrqE-esxJqLZ5dk-6" target="uRoryyrqE-esxJqLZ5dk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uRoryyrqE-esxJqLZ5dk-6" value="私域数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uRoryyrqE-esxJqLZ5dk-0">
           <mxGeometry x="34" y="70" width="56" height="60" as="geometry" />
         </mxCell>
