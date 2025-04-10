@@ -10,8 +10,16 @@
         <mxCell id="_kQKFq30W4oxIXAG3lYD-0" value="查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="330" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="_kQKFq30W4oxIXAG3lYD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_kQKFq30W4oxIXAG3lYD-1" target="_kQKFq30W4oxIXAG3lYD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_kQKFq30W4oxIXAG3lYD-1" value="嵌入模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_kQKFq30W4oxIXAG3lYD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_kQKFq30W4oxIXAG3lYD-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_kQKFq30W4oxIXAG3lYD-2" value="向量存储索引" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="330" width="80" height="80" as="geometry" />
