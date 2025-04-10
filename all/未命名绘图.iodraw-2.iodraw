@@ -9,7 +9,7 @@
             <mxPoint x="360" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UIdfLYzx96FTBybTi9O--7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UIdfLYzx96FTBybTi9O--5">
+        <mxCell id="UIdfLYzx96FTBybTi9O--7" value="直接输入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UIdfLYzx96FTBybTi9O--5">
           <mxGeometry x="-0.0719" y="8" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -28,6 +28,9 @@
         </mxCell>
         <mxCell id="UIdfLYzx96FTBybTi9O--4" value="仅包含大模型的流程图" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="190" width="570" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="UIdfLYzx96FTBybTi9O--8" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="485" y="328" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
