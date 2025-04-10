@@ -37,8 +37,8 @@
         <mxCell id="uRoryyrqE-esxJqLZ5dk-14" value="检索" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uRoryyrqE-esxJqLZ5dk-10">
           <mxGeometry x="35" y="110" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uRoryyrqE-esxJqLZ5dk-15" value="" style="shape=cross;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="440" width="60" height="50" as="geometry" />
+        <mxCell id="uRoryyrqE-esxJqLZ5dk-16" value="" style="shape=cross;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="510" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
