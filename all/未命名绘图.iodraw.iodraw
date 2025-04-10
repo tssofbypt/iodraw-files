@@ -55,11 +55,6 @@
         <mxCell id="uRoryyrqE-esxJqLZ5dk-24" value="问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uRoryyrqE-esxJqLZ5dk-1">
           <mxGeometry x="150" y="50" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uRoryyrqE-esxJqLZ5dk-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="uRoryyrqE-esxJqLZ5dk-1" source="uRoryyrqE-esxJqLZ5dk-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="283" y="-10" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uRoryyrqE-esxJqLZ5dk-25" value="查询向量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uRoryyrqE-esxJqLZ5dk-1">
           <mxGeometry x="230" y="50" width="70" height="60" as="geometry" />
         </mxCell>
