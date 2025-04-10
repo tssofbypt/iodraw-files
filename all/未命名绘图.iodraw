@@ -13,7 +13,7 @@
         <mxCell id="yBU4kaGx0NUy1GGQ37Ax-2" value="&#xa;&lt;div&gt; 输入编码与处理  &lt;/div&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yBU4kaGx0NUy1GGQ37Ax-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yBU4kaGx0NUy1GGQ37Ax-3" value="&#xa;&lt;div&gt;生成回答  &lt;/div&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
