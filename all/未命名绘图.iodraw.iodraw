@@ -14,7 +14,7 @@
             <mxPoint x="140" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uRoryyrqE-esxJqLZ5dk-6" value="私域数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uRoryyrqE-esxJqLZ5dk-0">
+        <mxCell id="uRoryyrqE-esxJqLZ5dk-6" value="私域数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="uRoryyrqE-esxJqLZ5dk-0">
           <mxGeometry x="38" y="100" width="56" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRoryyrqE-esxJqLZ5dk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="uRoryyrqE-esxJqLZ5dk-0" source="uRoryyrqE-esxJqLZ5dk-7" target="uRoryyrqE-esxJqLZ5dk-8">
@@ -26,7 +26,7 @@
         <mxCell id="uRoryyrqE-esxJqLZ5dk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="uRoryyrqE-esxJqLZ5dk-0" source="uRoryyrqE-esxJqLZ5dk-8" target="uRoryyrqE-esxJqLZ5dk-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uRoryyrqE-esxJqLZ5dk-8" value="语义向量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uRoryyrqE-esxJqLZ5dk-0">
+        <mxCell id="uRoryyrqE-esxJqLZ5dk-8" value="语义向量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="uRoryyrqE-esxJqLZ5dk-0">
           <mxGeometry x="150" y="30" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRoryyrqE-esxJqLZ5dk-10" value="向量数据库" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="uRoryyrqE-esxJqLZ5dk-0">
