@@ -42,12 +42,12 @@
           <mxGeometry x="50" y="99.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uRoryyrqE-esxJqLZ5dk-1" value="数据检索" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="450" width="400" height="200" as="geometry">
+          <mxGeometry x="320" y="440" width="400" height="200" as="geometry">
             <mxRectangle x="310" y="240" width="40" height="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uRoryyrqE-esxJqLZ5dk-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uRoryyrqE-esxJqLZ5dk-1">
-          <mxGeometry x="30" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRoryyrqE-esxJqLZ5dk-2" value="LLM生成" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="660" width="400" height="200" as="geometry">
