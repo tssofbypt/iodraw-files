@@ -45,7 +45,7 @@
         <mxCell id="_kQKFq30W4oxIXAG3lYD-6" value="大语言模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_kQKFq30W4oxIXAG3lYD-7" value="答案" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_kQKFq30W4oxIXAG3lYD-7" value="答案" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="450" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_kQKFq30W4oxIXAG3lYD-8" value="标准RAG流程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
