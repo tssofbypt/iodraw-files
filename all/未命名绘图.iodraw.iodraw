@@ -46,6 +46,9 @@
             <mxRectangle x="310" y="240" width="40" height="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uRoryyrqE-esxJqLZ5dk-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="uRoryyrqE-esxJqLZ5dk-1" source="uRoryyrqE-esxJqLZ5dk-23" target="uRoryyrqE-esxJqLZ5dk-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uRoryyrqE-esxJqLZ5dk-23" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uRoryyrqE-esxJqLZ5dk-1">
           <mxGeometry x="30" y="50" width="70" height="60" as="geometry" />
         </mxCell>
@@ -53,10 +56,10 @@
           <mxGeometry x="150" y="50" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRoryyrqE-esxJqLZ5dk-25" value="查询向量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uRoryyrqE-esxJqLZ5dk-1">
-          <mxGeometry x="220" y="50" width="70" height="60" as="geometry" />
+          <mxGeometry x="230" y="50" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRoryyrqE-esxJqLZ5dk-26" value="知识" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uRoryyrqE-esxJqLZ5dk-1">
-          <mxGeometry x="310" y="50" width="56" height="60" as="geometry" />
+          <mxGeometry x="320" y="50" width="56" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRoryyrqE-esxJqLZ5dk-2" value="LLM生成" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="660" width="400" height="200" as="geometry">
